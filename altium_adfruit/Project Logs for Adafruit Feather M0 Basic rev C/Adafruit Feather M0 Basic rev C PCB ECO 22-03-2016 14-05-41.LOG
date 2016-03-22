@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=X3 Old DesignItemId=USB_MICRO_20329_V2 New DesignItemId=USBMINIB
+Change Component Footprint: Designator=X3 Old Footprint=4UCONN_20329_V2 New Footprint=USB-MINIB
+Change Component Comment : Designator=X3 Old Comment=microUSB New Comment=USB ConnectorsUSBMINIB - Surface Mount Female Mini-B USB Connector 4UConnector: 06564   By microbuilder.euThru-hole RA Female Mini-B USB Connector 4UConnector: 18732   By ladyada.net
+Added Pin To Net: NetName=GND Pin=X3-GND

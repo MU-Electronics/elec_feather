@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=X3-BASE@1
+Removed Pin From Net: NetName=GND Pin=X3-BASE@2
+Removed Pin From Net: NetName=GND Pin=X3-SPRT@3
+Removed Pin From Net: NetName=GND Pin=X3-SPRT@4
+Change Component Footprint: Designator=X3 Old Footprint=4UCONN_20329_V2 New Footprint=USB-MINIB
