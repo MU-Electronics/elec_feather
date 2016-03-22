@@ -1,0 +1,82 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\electronics\Documents\micro board\adfruit\Adafruit-Feather-M0-Basic-Proto-PCB-master\Imported Adafruit Feather M0 Basic rev C.PrjPcb\Adafruit Feather M0 Basic rev C.PcbDoc
+Date     : 21/03/2016
+Time     : 15:24:19
+
+Processing Rule : Clearance Constraint (Gap=8mil) (IsVia),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (IsPad),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (IsPad),(IsPad)
+   Violation between Pad X3-GND(1206mil,1398mil)  Top and 
+                     Pad X3-1(1175mil,1373mil)  Multi-Layer
+   Violation between Pad X3-VBUS(1206mil,1501.181mil)  Top and 
+                     Pad X3-1(1175mil,1526.772mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=8mil) ((InLayerClass('Signal Layers') AND IsTrack)),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) ((InLayerClass('Signal Layers') AND IsTrack)),(IsPad)
+   Violation between Track (1118mil,1399mil)(1206mil,1399mil)  Top and 
+                     Pad X3-1(1175mil,1373mil)  Multi-Layer
+   Violation between Track (1160mil,1500mil)(1205mil,1500mil)  Top and 
+                     Pad X3-1(1175mil,1526.772mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=8mil) ((InLayerClass('Signal Layers') AND IsTrack)),((InLayerClass('Signal Layers') AND IsTrack))
+Rule Violations :0
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
+   Violation between Pad D1-A(1627mil,1735mil)  Top and 
+                     Pad X1-NC2(1559mil,1820mil)  Top
+   Violation between Via (1790mil,1570mil) Top to Bottom and 
+                     Pad U2-5(1752.402mil,1558mil)  Top
+   Violation between Via (1790mil,1680mil) Top to Bottom and 
+                     Pad U2-1(1752.402mil,1661.185mil)  Top
+Rule Violations :3
+
+Processing Rule : Hole To Hole Clearance (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=15.5mil) (Max=100000mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100000mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=8mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Time Elapsed        : 00:00:03

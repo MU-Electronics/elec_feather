@@ -1,0 +1,659 @@
+Removed Pin From Net: NetName=+3V3 Pin=U$4-17
+Removed Pin From Net: NetName=GND Pin=U$4-18
+Removed Pin From Net: NetName=GND Pin=U$4-35
+Removed Pin From Net: NetName=+3V3 Pin=U$4-36
+Removed Pin From Net: NetName=GND Pin=U$4-42
+Removed Pin From Net: NetName=GND Pin=U$4-THERMAL
+Removed Pin From Net: NetName=GND Pin=X3-BASE@1
+Removed Pin From Net: NetName=GND Pin=X3-BASE@2
+Removed Pin From Net: NetName=GND Pin=X3-GND
+Removed Pin From Net: NetName=GND Pin=X3-SPRT@1
+Removed Pin From Net: NetName=GND Pin=X3-SPRT@2
+Removed Pin From Net: NetName=GND Pin=X3-SPRT@3
+Removed Pin From Net: NetName=GND Pin=X3-SPRT@4
+Change Component DesignItemId : Designator=JP3 Old DesignItemId=1X12_ROUND New DesignItemId=HEADER-1X12
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=1X16_ROUND New DesignItemId=HEADER-1X16ROUND
+Change Component DesignItemId : Designator=X3 Old DesignItemId=4UCONN_20329_V2 New DesignItemId=USB_MICRO_20329_V2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=0603-NO New DesignItemId=CAP_CERAMIC0603_NO
+Change Component DesignItemId : Designator=C2 Old DesignItemId=0603-NO New DesignItemId=CAP_CERAMIC0603_NO
+Change Component DesignItemId : Designator=C4 Old DesignItemId=0603-NO New DesignItemId=CAP_CERAMIC0603_NO
+Change Component DesignItemId : Designator=C7 Old DesignItemId=0603-NO New DesignItemId=CAP_CERAMIC0603_NO
+Change Component DesignItemId : Designator=C14 Old DesignItemId=0603-NO New DesignItemId=CAP_CERAMIC0603_NO
+Change Component DesignItemId : Designator=R1 Old DesignItemId=0603-NO New DesignItemId=RESISTOR_0603_NOOUT
+Change Component DesignItemId : Designator=R2 Old DesignItemId=0603-NO New DesignItemId=RESISTOR_0603_NOOUT
+Change Component DesignItemId : Designator=R3 Old DesignItemId=0603-NO New DesignItemId=RESISTOR_0603_NOOUT
+Change Component DesignItemId : Designator=R6 Old DesignItemId=0603-NO New DesignItemId=RESISTOR_0603_NOOUT
+Change Component DesignItemId : Designator=R7 Old DesignItemId=0603-NO New DesignItemId=RESISTOR_0603_NOOUT
+Change Component DesignItemId : Designator=R8 Old DesignItemId=0603-NO New DesignItemId=RESISTOR_0603_NOOUT
+Change Component DesignItemId : Designator=C3 Old DesignItemId=0805-NO New DesignItemId=CAP_CERAMIC0805-NOOUTLINE
+Change Component DesignItemId : Designator=C5 Old DesignItemId=0805-NO New DesignItemId=CAP_CERAMIC0805-NOOUTLINE
+Change Component DesignItemId : Designator=C6 Old DesignItemId=0805-NO New DesignItemId=CAP_CERAMIC0805-NOOUTLINE
+Change Component DesignItemId : Designator=C8 Old DesignItemId=0805-NO New DesignItemId=CAP_CERAMIC0805-NOOUTLINE
+Change Component DesignItemId : Designator=CHG Old DesignItemId=CHIPLED_0805_NOOUTLINE New DesignItemId=LED0805_NOOUTLINE
+Change Component DesignItemId : Designator=L Old DesignItemId=CHIPLED_0805_NOOUTLINE New DesignItemId=LED0805_NOOUTLINE
+Change Component DesignItemId : Designator=X1 Old DesignItemId=JSTPH2 New DesignItemId=CON_JST_PH_2PIN
+Change Component DesignItemId : Designator=SW1 Old DesignItemId=KMR2 New DesignItemId=SPST_TACT-KMR2
+Change Component DesignItemId : Designator=U$31 Old DesignItemId=MOUNTINGHOLE_2.5_PLATED New DesignItemId=MOUNTINGHOLE2.5
+Change Component DesignItemId : Designator=U$32 Old DesignItemId=MOUNTINGHOLE_2.5_PLATED New DesignItemId=MOUNTINGHOLE2.5
+Change Component DesignItemId : Designator=D1 Old DesignItemId=SOD-123 New DesignItemId=DIODE-SCHOTTKYSOD-123
+Change Component DesignItemId : Designator=U3 Old DesignItemId=SOT23-5 New DesignItemId=MCP73831/2
+Change Component DesignItemId : Designator=U2 Old DesignItemId=SOT23-5 New DesignItemId=VREG_SOT23-5
+Change Component DesignItemId : Designator=TP1 Old DesignItemId=TESTPOINT_ROUND_1.5MM New DesignItemId=TESTPOINTROUND1.5MM
+Change Component DesignItemId : Designator=TP2 Old DesignItemId=TESTPOINT_ROUND_1.5MM New DesignItemId=TESTPOINTROUND1.5MM
+Change Component DesignItemId : Designator=U$4 Old DesignItemId=TQFN48_7MM New DesignItemId=ATSAMD21J_QFN
+Change Component DesignItemId : Designator=X2 Old DesignItemId=XTAL3215 New DesignItemId=XTAL-3.2X1.5
+Change Component Comment : Designator=JP3 Old Comment= New Comment=HEADER-1X12
+Change Component Comment : Designator=JP1 Old Comment= New Comment=HEADER-1X16ROUND
+Change Component Comment : Designator=U$31 Old Comment= New Comment=MOUNTINGHOLE2.5
+Change Component Comment : Designator=U$32 Old Comment= New Comment=MOUNTINGHOLE2.5
+Change Component Comment : Designator=SW1 Old Comment= New Comment=SPST_TACT-KMR2
+Change Component Comment : Designator=TP1 Old Comment= New Comment=TESTPOINTROUND1.5MM
+Change Component Comment : Designator=TP2 Old Comment= New Comment=TESTPOINTROUND1.5MM
+Change Component Description : Designator=U$31 Old Description= New Description=<b>Mounting Hole</b>
+<p>For #2 screws (0.086"/2.18mm width, 0.094"/2.4mm hole) use 2.5mm</p>
+Change Component Description : Designator=U$32 Old Description= New Description=<b>Mounting Hole</b>
+<p>For #2 screws (0.086"/2.18mm width, 0.094"/2.4mm hole) use 2.5mm</p>
+Change Component Description : Designator=JP1 Old Description= New Description=<b>PIN HEADER</b>
+Change Component Description : Designator=TP1 Old Description= New Description=<b>Test Point</b>
+<p>Various test points for characterisation and PCB testing</p>
+<p>
+<ul>
+<li><b>TESTPOINT_SMT</b> - Compact Surface Mount Test Point [Digikey: 5016KTR-ND]</li>
+</ul>
+</p>
+Change Component Description : Designator=TP2 Old Description= New Description=<b>Test Point</b>
+<p>Various test points for characterisation and PCB testing</p>
+<p>
+<ul>
+<li><b>TESTPOINT_SMT</b> - Compact Surface Mount Test Point [Digikey: 5016KTR-ND]</li>
+</ul>
+</p>
+Change Component Description : Designator=C1 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C2 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C3 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C4 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C5 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C6 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C7 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C8 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=C14 Old Description= New Description=<p><b>Ceramic Capacitors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=CHG Old Description= New Description=<p><b>LED</b></p>
+<b>0603</b> - 0603 Surface Mount Package
+<hr>
+<p><b><u>2mA:</u></b></p>
+<ul>
+<li>Green LED - Low Power (3.9mcd, 2ma, 1.7Vf) - Digikey: 475-2709-2-ND</li>
+<li>Orange LED - Low Power (9.8mcd, 2ma, 1.8Vf) - Digikey: 475-1194-2-ND</li>
+<li>Red LED - Low Power (5mcd, 2ma, 1.8Vf) - Digikey: 475-1195-2-ND</li>
+<li>Yellow LED - Low Power (7mcd, 2ma, 1.8Vf) - Digikey: 475-1196-2-ND</li>
+</ul>
+<p><b><u>5mA:</u></b></p>
+<ul>
+<li>Blue LED - Low Power (17mcd, 5ma, 2.9Vf) - Digikey: LNJ937W8CRACT-ND</li>
+</ul>
+<b>0805</b> - 0805 Surface Mount Package
+<hr>
+<p><b><u>2mA:</u></b></p>
+<ul>
+<li>Red LED (8.8mcd, 2mA, 1.8Vf, Clear) - Low Power [Digikey: 475-2510-1-ND]</li>
+<li>Green LED (5mcd, 2mA, 1.8Vf, Clear) - Low Power [Digikey: 475-2730-1-ND]</li>
+<li>Yellow LED (11.3mcd, 2mA, 1.8Vf, Clear) - Low Power [Digikey: 475-2555-1-ND]</li>
+</ul>
+<p><b><u>20mA:</u></b></p>
+<ul>
+<li>Red LED (104mcd, 20mA, Diffused) - LS R976 [Digikey: 475-1278-6-ND]</li>
+<li>Red LED (12mcd, 20mA, 2.0Vf, Clear) - APT2012EC [Digikey: 754-1128-1-ND]</li>
+<li>Green LED (15mcd, 20mA, 2.2Vf, Clear) - APT2012GC [Digikey: 754-1131-1-ND]</li>
+<li>Orange LED (160mcd, 20mA, 2.1Vf, Clear) - APT2012SECK [Digikey: 754-1130-1-ND]</li>
+</ul>
+<li><b>1206</b> - 1206 Surface Mount Package
+<hr>
+<ul>
+<li>Green LED (26mcd, 20mA, Diffused) - LG N971  [Digikey: 475-1407-6-ND]</li>
+<li>Red LED (15mcd, 20mA, Diffused) - LH N974 [Digikey: 475-1416-6-ND]</li>
+</ul>
+
+<li><b>Cree</b> - Cree High-Power Surface Mount LEDs
+<hr>
+<ul>
+<li>XPEBWT-L1-0000-00D50 - White 111lm 350mA 2.9Vf 6200K 110°</li>
+<li>XTEAWT-00-0000-00000LEE3 - White 114lm 350mA 2.85Vf 5000K 115°</li>
+</ul>
+
+<li><b>Everlight</b> - Everlight 45-21 Series Surface Mount LEDs
+<hr>
+<ul>
+<li>45-21/QK2C-B2832AC2CB2/2T - Warm White 2000mcd 20mA 3.25Vf 3050K 120°</li>
+<li>45-21/LK2C-B38452C4CB2/2T - Nuetral White 2000mcd 20mA 3.25Vf 4150K 120°</li>
+<li>45-21/LK2C-B50634C6CB2/2T - Cold White 2200mcd 20mA 3.25Vf 5650K 120°</li>
+</ul>
+
+<li><b>PLCC2 Reverse Mount</b>
+<hr>
+<ul>
+<li>LS T77K-J1L2-1-0-2-R18-Z - Red 11.25mcd 2mA 1.8Vf 630nm 120°</li>
+<li>LO T77K-L1M2-24-Z - Orange 19.6mcd 2mA 1.8Vf 606nm 120°</li>
+<li>LY T77K-K2M1-26-Z - Yellow 15.7mcd 2mA 1.8Vf 587nm 120°</li>
+</ul>
+Change Component Description : Designator=L Old Description= New Description=<p><b>LED</b></p>
+<b>0603</b> - 0603 Surface Mount Package
+<hr>
+<p><b><u>2mA:</u></b></p>
+<ul>
+<li>Green LED - Low Power (3.9mcd, 2ma, 1.7Vf) - Digikey: 475-2709-2-ND</li>
+<li>Orange LED - Low Power (9.8mcd, 2ma, 1.8Vf) - Digikey: 475-1194-2-ND</li>
+<li>Red LED - Low Power (5mcd, 2ma, 1.8Vf) - Digikey: 475-1195-2-ND</li>
+<li>Yellow LED - Low Power (7mcd, 2ma, 1.8Vf) - Digikey: 475-1196-2-ND</li>
+</ul>
+<p><b><u>5mA:</u></b></p>
+<ul>
+<li>Blue LED - Low Power (17mcd, 5ma, 2.9Vf) - Digikey: LNJ937W8CRACT-ND</li>
+</ul>
+<b>0805</b> - 0805 Surface Mount Package
+<hr>
+<p><b><u>2mA:</u></b></p>
+<ul>
+<li>Red LED (8.8mcd, 2mA, 1.8Vf, Clear) - Low Power [Digikey: 475-2510-1-ND]</li>
+<li>Green LED (5mcd, 2mA, 1.8Vf, Clear) - Low Power [Digikey: 475-2730-1-ND]</li>
+<li>Yellow LED (11.3mcd, 2mA, 1.8Vf, Clear) - Low Power [Digikey: 475-2555-1-ND]</li>
+</ul>
+<p><b><u>20mA:</u></b></p>
+<ul>
+<li>Red LED (104mcd, 20mA, Diffused) - LS R976 [Digikey: 475-1278-6-ND]</li>
+<li>Red LED (12mcd, 20mA, 2.0Vf, Clear) - APT2012EC [Digikey: 754-1128-1-ND]</li>
+<li>Green LED (15mcd, 20mA, 2.2Vf, Clear) - APT2012GC [Digikey: 754-1131-1-ND]</li>
+<li>Orange LED (160mcd, 20mA, 2.1Vf, Clear) - APT2012SECK [Digikey: 754-1130-1-ND]</li>
+</ul>
+<li><b>1206</b> - 1206 Surface Mount Package
+<hr>
+<ul>
+<li>Green LED (26mcd, 20mA, Diffused) - LG N971  [Digikey: 475-1407-6-ND]</li>
+<li>Red LED (15mcd, 20mA, Diffused) - LH N974 [Digikey: 475-1416-6-ND]</li>
+</ul>
+
+<li><b>Cree</b> - Cree High-Power Surface Mount LEDs
+<hr>
+<ul>
+<li>XPEBWT-L1-0000-00D50 - White 111lm 350mA 2.9Vf 6200K 110°</li>
+<li>XTEAWT-00-0000-00000LEE3 - White 114lm 350mA 2.85Vf 5000K 115°</li>
+</ul>
+
+<li><b>Everlight</b> - Everlight 45-21 Series Surface Mount LEDs
+<hr>
+<ul>
+<li>45-21/QK2C-B2832AC2CB2/2T - Warm White 2000mcd 20mA 3.25Vf 3050K 120°</li>
+<li>45-21/LK2C-B38452C4CB2/2T - Nuetral White 2000mcd 20mA 3.25Vf 4150K 120°</li>
+<li>45-21/LK2C-B50634C6CB2/2T - Cold White 2200mcd 20mA 3.25Vf 5650K 120°</li>
+</ul>
+
+<li><b>PLCC2 Reverse Mount</b>
+<hr>
+<ul>
+<li>LS T77K-J1L2-1-0-2-R18-Z - Red 11.25mcd 2mA 1.8Vf 630nm 120°</li>
+<li>LO T77K-L1M2-24-Z - Orange 19.6mcd 2mA 1.8Vf 606nm 120°</li>
+<li>LY T77K-K2M1-26-Z - Yellow 15.7mcd 2mA 1.8Vf 587nm 120°</li>
+</ul>
+Change Component Description : Designator=U3 Old Description= New Description=<p><b>MCP73831/2 LIPO Charger</b></p>
+<p>
+<ul>
+<li>VDD: 3.75 - 6V</li>
+<li>Temp -40 - 85°C</li>
+<li>Programmable Charge Rate: 15-500mA</li>
+</ul>
+</p>
+<p><b>NOTE:</b> STAT is a tri-state logic output on the MCP73831 and an open-drain output on the MCP73832.</p>
+<p>SOT23-5 with 4.2V output and tri-state logic on STAT = MCP73831T-2ACI/OT</p>
+Change Component Description : Designator=R1 Old Description= New Description=<p><b>Resistors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=R2 Old Description= New Description=<p><b>Resistors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=R3 Old Description= New Description=<p><b>Resistors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=R6 Old Description= New Description=<p><b>Resistors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=R7 Old Description= New Description=<p><b>Resistors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=R8 Old Description= New Description=<p><b>Resistors</b></p>
+<p>For new designs, use the packages preceded by an '_' character since they are more reliable:</p>
+<p>The following footprints should be used on most boards:</p>
+<ul>
+<li><b>_0402</b> - Standard footprint for regular board layouts</li>
+<li><b>_0603</b> - Standard footprint for regular board layouts</li>
+<li><b>_0805</b> - Standard footprint for regular board layouts</li>
+<li><b>_1206</b> - Standard footprint for regular board layouts</li>
+</ul>
+<p>For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):</p>
+<ul>
+<li><b>_0402MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0603MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_0805MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+<li><b>_1206MP</b> - Micro-pitch footprint for very dense/compact boards</li>
+</ul>
+Change Component Description : Designator=U2 Old Description= New Description=<p><b>SOT23-5 Fixed Voltage Regulators</b></p>
+<p></p>
+<table width="700">
+<tr bgcolor="#EEEEEE" >
+<td><b>Part</b></td>
+<td><b>Current Out</b></td>
+<td><b>V Out</b></td>
+<td><b>V In</b></td>
+<td><b>V Dropout</b></td>
+<td><b>?JA (°C/W)</b></td>
+<td><b>TJ (°C)</b></td>
+<td><b>Digikey Part No.</b></td>
+</tr>
+<tr>
+  <td>ADP121</td>
+  <td>150mA</td>
+  <td><b>3.3V</b></td>
+  <td>3.4-5.5V</td>
+  <td>0.09V @ 150mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>ADP121-AUJZ33R7CT-ND</td>
+</tr>
+<tr>
+  <td>ADP121</td>
+  <td>150mA</td>
+  <td><b>3.0V</b></td>
+  <td>3.1-5.5V</td>
+  <td>0.09V @ 150mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>ADP121-AUJZ30R7CT-ND</td>
+</tr>
+<tr>
+  <td>ADP122</td>
+  <td><strong>300mA</strong></td>
+  <td><b>3.3V</b></td>
+  <td>3.4-5.5V</td>
+  <td>0.085V @ 300mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>ADP122AUJZ-3.3-R7CT-ND</td>
+</tr>
+<tr>
+  <td>ADP1712</td>
+  <td><strong>300mA</strong></td>
+  <td><b>3.3V</b></td>
+  <td>3.5-5.5V</td>
+  <td>0.17V @ 300mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>ADP1712AUJZ-3.3-R7TR-ND</td>
+</tr>
+<tr>
+  <td>AP7311 (<b>Low Cost</b>)</td>
+  <td>150mA</td>
+  <td><b>3.3V</b></td>
+  <td>3.5-6V</td>
+  <td>0.15V @ 150mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>AP7311-33WG-7DICT-ND</td>
+</tr>
+
+<tr>
+  <td>LD39015M18R</td>
+  <td>150mA</td>
+  <td><b>1.8V</b></td>
+  <td>1.9V-5.5V</td>
+  <td>0.08V @ 100mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>497-6977-1-ND</td>
+</tr>
+
+<tr>
+  <td>LP2985A-33DBVR</td>
+  <td>150mA</td>
+  <td><b>3.3V</b></td>
+  <td>3.3-16V</td>
+  <td>0.28V @ 150mA</td>
+  <td>206</td>
+  <td>150</td>
+  <td>296-18479-1-ND</td>
+</tr>
+
+<tr>
+  <td>MCP1824T-3302E/OT</td>
+  <td><b>300mA</b></td>
+  <td><b>3.3V</b></td>
+  <td>3.5V-6V</td>
+  <td>0.2V @ 300mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>MCP1824T-3302E/OTCT-ND</td>
+</tr>
+
+<tr>
+  <td>MIC5205-2.5YM5 TR</td>
+  <td>150mA</td>
+  <td><b>2.5V</b></td>
+  <td>2.7-16V</td>
+  <td>0.165V @ 150mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>576-1257-2-ND</td>
+</tr>
+<tr>
+  <td>MIC5205-3.0YM5 TR</td>
+  <td>150mA</td>
+  <td><b>3.0V</b></td>
+  <td>3.2V-16V</td>
+  <td>0.165V @ 150mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>576-1258-2-ND</td>
+</tr>
+<tr>
+  <td>MIC5205-3.3YM5 TR</td>
+  <td>150mA</td>
+  <td><b>3.3V</b></td>
+  <td>3.5V-16V</td>
+  <td>0.165V @ 150mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>576-1259-2-ND</td>
+</tr>
+<tr>
+  <td>TPS780330220</td>
+  <td>150mA</td>
+  <td><b>3.3V+2.2V</b></td>
+  <td>3.6-5.5V</td>
+  <td>250mV Max</td>
+  <td>--</td>
+  <td>--</td>
+  <td>296-23332-1-ND</td>
+</tr>
+<tr>
+  <td>TDA3663/N1,135</td>
+  <td>100mA</td>
+  <td><b>3.3V</b></td>
+  <td>3.5-<b>45V</b></td>
+  <td>0.18V @ 50mA</td>
+  <td>--</td>
+  <td>--</td>
+  <td>568-5343-1-ND</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+</table>
+<p>Max operating temp can be calculated using ?JA, TJ (max junction temperature), and power in watts.  Set the "Maximum Ambient Temperature" until it reaches TJ ("Max Junction Temperature"), which is the absolute limit for safe use of the regulator: <a href="http://www.daycounter.com/Calculators/Heat-Sink-Temperature-Calculator.phtml">Heat Sink Temperature Calculator</a></p>
+<p>For example, With 12V source into a 3.3V LP2985 and a 30mA load, we are dissipating (12V-3.3V) * 0.03A = 0.261W.  With a ?JA of 206 °C/W, a TJ of 150°C, and 261mW we can safely use the chip without a heat sink up to 75°C (=147.1°C Junction Temperature).</p>
+Change Component Description : Designator=X3 Old Description= New Description=<p><b>USB Connectors</b></p>
+<b>USBMINIB</b> - Surface Mount Female Mini-B USB Connector
+<p>4UConnector: 06564</p>
+Change Component Description : Designator=X1 Old Description= New Description=JST 2-Pin Right-Angle Connector
+<ul>
+<li>PH-Series - 4UConnector: 17311</li>
+<li>SH-Series - 4UConnector: 07278</li>
+</ul>
+Change Component Description : Designator=X2 Old Description= New Description=Low cost SMT crystals, no capacitors included
+<p>http://www.ladyada.net/library/eagle</p>
+Change Component Description : Designator=SW1 Old Description= New Description=SMT 6mm switch, EVQQ2 series
+<p>http://www.ladyada.net/library/eagle</p>
+Change Component Library : Designator=X2 Old Library= New Library=adafruit2.IntLib
+Change Component Library : Designator=SW1 Old Library= New Library=adafruit.IntLib
+Change Component Library : Designator=C1 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C2 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C3 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C4 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C5 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C6 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C7 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C8 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=C14 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=CHG Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=D1 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=JP1 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=JP3 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=L Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=R1 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=R2 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=R3 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=R6 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=R7 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=R8 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=TP1 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=TP2 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=U2 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=U3 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=U$4 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=U$31 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=U$32 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=X1 Old Library= New Library=microbuilder.IntLib
+Change Component Library : Designator=X3 Old Library= New Library=microbuilder.IntLib
+Change Net Name : Old Net Name=!RESET New Net Name=R\E\S\E\T\
+Change Net Name : Old Net Name=N$1 New Net Name=NetCHG_C
+Change Net Name : Old Net Name=N$2 New Net Name=NetL_A
+Change Net Name : Old Net Name=N$3 New Net Name=NetR2_2
+Change Net Name : Old Net Name=N$4 New Net Name=NetR8_1
+Change Net Name : Old Net Name=N$5 New Net Name=NetC2_1
+Change Net Name : Old Net Name=N$7 New Net Name=NetC4_1
+Added Class: Name=Adafruit Feather M0 Basic rev C
+Added Room: Name=Adafruit Feather M0 Basic rev C
