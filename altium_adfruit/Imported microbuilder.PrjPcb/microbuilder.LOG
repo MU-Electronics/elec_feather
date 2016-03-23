@@ -1,0 +1,13 @@
+Importer Log Report
+Project : microbuilder.PrjPcb
+
+Section : Analyze Document - C:\Users\mbdssysm\Desktop\microbuilder.lbr
+    Analyzing data of C:\Users\mbdssysm\Desktop\microbuilder.lbr
+    Load settings
+    Load layers 96
+    Load Library library
+    Load Library ""
+    Load Packages 422
+    Load Symbols 400
+    Load DeviceSets 326
+EndSection

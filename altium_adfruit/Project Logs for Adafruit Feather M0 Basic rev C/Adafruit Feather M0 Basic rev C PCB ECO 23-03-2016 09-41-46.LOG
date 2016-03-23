@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U$4-THERMAL
+Change Component DesignItemId : Designator=U$4 Old DesignItemId=ATSAMD21J_QFN New DesignItemId=ATSAMD21G-M
+Change Component Footprint: Designator=U$4 Old Footprint=tqfn48_7mm New Footprint=QFN-48
+Added Pin To Net: NetName=+3V3 Pin=U$4-17
+Added Pin To Net: NetName=+3V3 Pin=U$4-36
+Added Member To Class: ClassName=Adafruit Feather M0 Basic rev C Member=Component U$4 ATSAMD21G18_QFN

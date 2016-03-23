@@ -1,0 +1,14 @@
+Change Component Description : Designator=TP1 Old Description=<b>Test Point</b>
+<p>Various test points for characterisation and PCB testing</p>
+<p>
+<ul>
+<li><b>TESTPOINT_SMT</b> - Compact Surface Mount Test Point [Digikey: 5016KTR-ND]</li>
+</ul>
+</p> New Description=
+Change Component Description : Designator=TP2 Old Description=<b>Test Point</b>
+<p>Various test points for characterisation and PCB testing</p>
+<p>
+<ul>
+<li><b>TESTPOINT_SMT</b> - Compact Surface Mount Test Point [Digikey: 5016KTR-ND]</li>
+</ul>
+</p> New Description=
