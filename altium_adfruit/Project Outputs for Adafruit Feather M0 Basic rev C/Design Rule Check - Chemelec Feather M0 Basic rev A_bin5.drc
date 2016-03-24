@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : Z:\designs\Working_Designs\FR1225_Job2957_0-500ma led constant current source\elec_feather\altium_adfruit\Adafruit Feather M0 Basic rev C.PcbDoc
+PCB File : Z:\designs\Working_Designs\FR1225_Job2957_0-500ma led constant current source\elec_feather\altium_adfruit\Chemelec Feather M0 Basic rev A_bin5.PcbDoc
 Date     : 24/03/2016
-Time     : 16:21:09
+Time     : 16:24:43
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (IsVia),(IsVia)
 Rule Violations :0
@@ -73,4 +73,4 @@ Rule Violations :0
 
 
 Violations Detected : 4
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
